@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-A ScarJo on my consciousness.
+"What's all this then?"
 Use the left arrow to go back!
